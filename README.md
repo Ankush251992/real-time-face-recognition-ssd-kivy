@@ -36,7 +36,7 @@ Welcome to this exciting project that leverages the power of Single Shot Multibo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/[Your-Username]/real-time-face-recognition-ssd-kivy.git
+    git clone https://github.com/Ankush251992/real-time-face-recognition-ssd-kivy.git
     ```
 
 2. Install the required packages:
@@ -51,3 +51,34 @@ To run the script, navigate to the repository directory and execute:
 
 ```bash
 python SSD_Face_Recogniser.py
+
+
+
+
+
+
+
+
+
+
+
+
+# Contributing to Real-Time Face Recognition with SSD & Kivy
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin new-feature`).
+6. Create a new Pull Request.
+
+## Code Style
+
+Please adhere to PEP 8 coding standards for Python.
+
+## Issues and Bug Reports
+
+Feel free to open new issues for bug reports or feature requests. Be sure to describe the issue in detail for quicker resolution.
+
